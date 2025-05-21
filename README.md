@@ -13,7 +13,6 @@
 
 ---
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
 
 ### 🛠 Tech Stack
 
@@ -82,16 +81,13 @@
 ### 📫 Connect With Me
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:kumarlalith840@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/ramesh-lalith-kumar-a29a07132/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="180" alt="fun gif" />
-</div>
