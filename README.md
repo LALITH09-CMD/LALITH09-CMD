@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
-
 ### 🛠 Tech Stack
 
 #### **Frontend**
@@ -94,6 +92,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="180" alt="fun gif" />
-</div>
